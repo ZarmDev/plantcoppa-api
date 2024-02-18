@@ -1,0 +1,8 @@
+ALSO, this file is just what the data should look like when it's stored to the database
+{
+  username: "da",
+  products: {
+    "basil plant": "free",
+    "peppermint plant": "0.01"
+  }
+}
